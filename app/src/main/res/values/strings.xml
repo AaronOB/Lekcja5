@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lekcja5</string>
+    <string-array name="model">
+        <item>Samsung Galaxy J3 Pro</item>
+        <item>Huawei Y5II</item>
+        <item>Sony Xperia E5</item>
+    </string-array>
+
+</resources>
